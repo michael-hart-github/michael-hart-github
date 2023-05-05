@@ -1,9 +1,8 @@
-* 👋 Hi, I’m Mike
-* 👀 I’m interested in running computer simulations ([Double Pendulum](https://github.com/DinoZ1729/Double-Pendulum), [Hydraulic Erosion](https://github.com/SebLague/Hydraulic-Erosion), etc.)
-* 🌱 I’m currently learning how to create websites with HTML and CSS. I'm hoping to get into JavaScript, and Python
-* 💞️ I’m currently collaborating on some various private repos. I'm aiming towards contributing to some public open source ones as well
-* 📫 Contact me on here, if you wish. Alternativly, check out my website
-* 💻 [Hart Photographs](https://www.hartphotographs.com/) 📸 If something catches your eye, I've got prints for sale
+* 👋 Hi, I’m Mike!
+* ⌨️ I’m mainly using GitHub to store/track info related to Pen Testing.
+* 📔 I’m also using GitHub to store various notes on HTML, CSS, and JavaScript.
+* 📫 Contact me on here, if you wish!
+* Alternativly, check out my website! -> 💻 [Hart Photographs](https://www.hartphotographs.com/) 📸
 
 <!---
 michael-hart-github/michael-hart-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
