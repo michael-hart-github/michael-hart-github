@@ -6,4 +6,4 @@ I document some of the stuff I do on and off of GitHub [on my blog](blog.mikecod
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-hart-github&layout=compact&theme=dracula)
 
-[![Mikes's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monoxide5045)](https://github.com/michael-hart-github/github-readme-stats&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/1791c25e-738d-485d-ab9e-6b0333be21a4.svg)](https://wakatime.com/@1791c25e-738d-485d-ab9e-6b0333be21a4?style=for-the-badge)
