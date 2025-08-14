@@ -5,6 +5,15 @@
 [![wakatime](https://wakatime.com/badge/user/1791c25e-738d-485d-ab9e-6b0333be21a4.svg?style=plastic)](https://wakatime.com/@1791c25e-738d-485d-ab9e-6b0333be21a4)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 07 August 2025 - To: 14 August 2025
+
+Total Time: 0 secs
+
+Markdown   0 secs          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Contribution graph
