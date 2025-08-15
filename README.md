@@ -23,6 +23,7 @@ If you're wondering why the commits on my profile are crazy high, it's not one o
 # About me
 
 > I;m thinking about thos Beans
-- Ancient American proverb
+
+\- Ancient American proverb
 
 I document some of the stuff I do on and off of GitHub [on my blog](blog.mikecodes.software).
