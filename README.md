@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2025 - To: 21 August 2025
+From: 15 August 2025 - To: 22 August 2025
 
-Total Time: 8 hrs 28 mins
+Total Time: 8 hrs 16 mins
 
-Markdown       7 hrs 18 mins   ██████████████░░░░░░░░░░░   55.41 %
-Other          4 hrs 43 mins   █████████░░░░░░░░░░░░░░░░   35.83 %
+Markdown       7 hrs 6 mins    ████████████▒░░░░░░░░░░░░   49.03 %
+Other          6 hrs 13 mins   ██████████▓░░░░░░░░░░░░░░   42.93 %
 ```
 
 <!--END_SECTION:waka-->
