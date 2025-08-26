@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2025 - To: 24 August 2025
+From: 18 August 2025 - To: 25 August 2025
 
-Total Time: 5 hrs 27 mins
+Total Time: 5 hrs 18 mins
 
-Other          11 hrs 43 mins  █████████████████░░░░░░░░   68.20 %
+Other          11 hrs 43 mins  █████████████████▒░░░░░░░   68.84 %
 ```
 
 <!--END_SECTION:waka-->
