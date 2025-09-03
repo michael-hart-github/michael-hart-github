@@ -1,7 +1,5 @@
 # Nerd creds
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-hart-github&layout=compact&theme=dracula)
-
 [![wakatime](https://wakatime.com/badge/user/1791c25e-738d-485d-ab9e-6b0333be21a4.svg?style=plastic)](https://wakatime.com/@1791c25e-738d-485d-ab9e-6b0333be21a4)
 
 <!--START_SECTION:waka-->
