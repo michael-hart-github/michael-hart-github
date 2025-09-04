@@ -17,7 +17,7 @@ Other        4 mins          █▒░░░░░░░░░░░░░░░
 
 ### Contribution graph
 
-If you're wondering why the commits on my profile are crazy high, it's not one of those lame stats infaltor things. I have Postman hooked up to a private repo to copy over updates to my PM collections; that screws up my GitHub contributions. My WakaTime is way more accurate.
+If you're wondering why the commits on my profile are crazy high, I have Postman hooked up to a private repo to copy over updates to my PM collections. It occasionally screws up my GitHub contributions. My WakaTime is way more accurate.
 
 # About me
 
