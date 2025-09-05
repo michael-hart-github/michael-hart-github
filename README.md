@@ -5,12 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2025 - To: 03 September 2025
+From: 28 August 2025 - To: 04 September 2025
 
-Total Time: 1 hr 28 mins
+Total Time: 2 hrs
 
-Markdown     1 hr 24 mins    ██████████████████████▓░░   90.59 %
-Other        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Markdown     1 hr 34 mins    ██████████████████▓░░░░░░   74.38 %
+JSON         21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
+Other        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
 
 <!--END_SECTION:waka-->
