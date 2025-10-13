@@ -5,14 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2025 - To: 11 October 2025
+From: 05 October 2025 - To: 12 October 2025
 
-Total Time: 6 hrs 54 mins
+Total Time: 4 hrs 50 mins
 
-Markdown   3 hrs 30 mins   ████████████▓░░░░░░░░░░░░   50.55 %
-YAML       3 hrs 18 mins   ████████████░░░░░░░░░░░░░   47.48 %
-Git        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Markdown   3 hrs 8 mins    ███████████████▓░░░░░░░░░   62.36 %
+YAML       1 hr 36 mins    ████████░░░░░░░░░░░░░░░░░   31.69 %
+Other      12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
 <!--END_SECTION:waka-->
