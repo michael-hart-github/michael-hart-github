@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2025 - To: 12 December 2025
+From: 06 December 2025 - To: 13 December 2025
 
-Total Time: 2 hrs 11 mins
+Total Time: 1 hr 52 mins
 
-Markdown   2 hrs 9 mins    █████████████████████▓░░░   86.18 %
-Other      19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Markdown   1 hr 50 mins    █████████████████████░░░░   84.16 %
+Other      19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
 ```
 
 <!--END_SECTION:waka-->
