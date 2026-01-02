@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 25 December 2025 - To: 01 January 2026
 
-Total Time: 2 hrs 23 mins
+Total Time: 2 hrs 41 mins
 
-YAML       1 hr 52 mins    █████████████████▓░░░░░░░   70.94 %
-Markdown   30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
-Other      15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+YAML       1 hr 52 mins    ████████████████░░░░░░░░░   63.91 %
+Markdown   48 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
+Other      15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
 ```
 
 <!--END_SECTION:waka-->
