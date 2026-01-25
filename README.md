@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2026 - To: 23 January 2026
+From: 17 January 2026 - To: 24 January 2026
 
-Total Time: 1 hr 47 mins
+Total Time: 1 hr 19 mins
 
-Markdown   1 hr 32 mins    █████████████████████▓░░░   86.83 %
-JSON       14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Markdown   1 hr 5 mins     ████████████████████▓░░░░   82.22 %
+JSON       14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
 ```
 
 <!--END_SECTION:waka-->
