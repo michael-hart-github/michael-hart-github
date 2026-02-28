@@ -16,7 +16,7 @@ Other   14 mins               ████████████████�
 
 ### Contribution graph
 
-If you're wondering why the commits on my profile are crazy high, I have Postman hooked up to a private repo to copy over updates to my PM collections. It occasionally screws up my GitHub contributions. My WakaTime is way more accurate.
+WakaTime got dinged as Malware by work Antivirus, so my numbers are all screwed up again. most of my freetime has been spent getting some docker compose stuff up, so you'll probably just see a little yaml in here, if anything at all. Ugh.
 
 # About me
 
