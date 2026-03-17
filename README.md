@@ -4,4 +4,4 @@
 
 \- Ancient American proverb
 
-I document some of the stuff I do on and off of GitHub [on my blog](https://blog.mikecodes.software).
+I document ~~some of~~ almost none of the stuff I do on and off of GitHub [on my blog](https://blog.mikecodes.software).
